@@ -1,0 +1,117 @@
+
+#banner, #b{
+	width: 100pc;
+	height: 42pc;
+	margin: 0 0;
+	padding: 0 0;
+}
+#logo{
+	font-size: 2pc;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+article{
+	margin: 0 10px;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-size: cover;
+	font-size: 15;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 0;
+}
+header{
+	 background: rgba(28, 54, 85, 0.1);	
+	padding: 10px 20px;
+}
+nav{
+	 background: rgba(28, 54, 85, 0.3);
+	padding: 5px;
+}
+
+li a {
+	color: white;
+	text-decoration-line: none;
+}
+
+li{
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+section{
+    padding: 0 15px;
+    margin: 10px 0px;
+}
+p{
+	font-size: 20px;
+	margin: 10px 20px;
+    padding: 0px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#para{
+	font-size: 30px;
+    margin: 5px 20px;
+    padding: 0px 0px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#car_disc{
+	font-size: 30px;
+    padding: 5px 90px;
+    margin: 5px 90px;
+}
+#newly_added{
+	width: 640px;
+    float: left;
+    padding: 0 15px;
+    margin: 10px 0;
+}
+	dt{
+		font-size: 30px;
+		font-weight: bold;
+		margin: 0 40px;
+	}
+	dd{
+		font-size: 20px;
+	}
+	#art{
+		background:#e6eff6;
+	}
+	#dt1{
+		width: 370px;
+	    float: right;
+		padding: 20px;
+		margin-top: 10px;
+		background:#e6eff6;
+	}
+	#dt2{
+		width: 370px;
+	    float: right;
+		padding: 20px;
+		margin-top: 10px;
+		background:#e6eff6;
+	}
+	footer{
+	clear: both;
+	background: rgba(28, 54, 85, 0.3);
+	padding: 5px 20px;
+	font-size: 20px;
+	text-align: center;
+}
+figcaption{
+	font-size: 20px;
+}
+button{
+	font-size: 20px;
+}
+#aside1{
+	background-color: rgba(195, 162, 111,0.5);
+	width: 270px;
+	float: right;
+	padding: 20px;
+	margin-top: 10px;
+}

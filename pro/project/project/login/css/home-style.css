@@ -1,0 +1,99 @@
+
+#banner{
+	width: 1345px;
+	height: 400px;
+}
+#logo{
+	font-size: 50px;
+	text-align: center;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url('images/wooden_bg.jpg');
+	background-size: cover;
+	font-size: 15;
+}
+header{
+	 background: rgba(28, 54, 85, 0.1);	
+	padding: 10px 20px;
+}
+nav{
+	 background: rgba(28, 54, 85, 0.3);
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a {
+	color: white;
+	text-decoration-line: none;
+}
+
+li{
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+section{
+	background: rgba(28, 54, 85, 0.1);	
+	margin-top: 10px;
+	padding: 5px;
+}
+p{
+	font-size: 20px;
+}
+#para{
+	font-size:30px;
+}
+#car_disc{
+	font-size: 30px;
+}
+#newly_added{
+	width: 640px;
+	float: left;
+	margin-bottom: 10px;
+}
+	dt{
+		font-size: 30px;
+		font-weight: bold;
+	}
+	dd{
+		font-size: 20px;
+	}
+	#dt1{
+		background: rgba(28, 54, 85, 0.1);
+		width: 370px;
+	    float: right;
+		padding: 20px;
+		margin-top: 10px;
+	}
+	#dt2{
+		background: rgba(28, 54, 85, 0.1);
+		width: 370px;
+	    float: right;
+		padding: 20px;
+		margin-top: 10px;
+	}
+	footer{
+	clear: both;
+	background: rgba(28, 54, 85, 0.3);
+	padding: 5px 20px;
+	font-size: 20px;
+	text-align: center;
+}
+figcaption{
+	font-size: 20px;
+}
+button{
+	font-size: 20px;
+}
+#aside1{
+	background-color: rgba(195, 162, 111,0.5);
+	width: 270px;
+	float: right;
+	padding: 20px;
+	margin-top: 10px;
+}

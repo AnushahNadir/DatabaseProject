@@ -1,0 +1,67 @@
+#logo{
+	font-size: 50px;
+	text-align: center;
+
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url('images/wooden_bg.jpg');
+	background-size: cover;
+	font-size: 15;
+}
+header{
+	 background: rgba(28, 54, 85, 0.1);	
+	padding: 10px 20px;
+}
+nav{
+	 background: rgba(28, 54, 85, 0.3);
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a {
+	color: white;
+	text-decoration-line: none;
+}
+
+li{
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+#ad1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration-line: underline;
+}
+table{
+	border-collapse: collapse;
+}
+.header{
+	font-size: 20px;
+	padding: 10px;
+	text-align: center;
+	background-color: rgba(28,54,85,0.3);
+}
+#client{
+	font-size: 30px;
+}
+.data{
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#sec{
+	padding-left: 50px;
+}
+#msg{
+	font-size: 30px;
+}
+#sec{
+	padding-left: 100px;
+}

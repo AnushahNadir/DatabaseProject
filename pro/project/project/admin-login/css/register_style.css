@@ -1,0 +1,41 @@
+#logo{
+	font-size: 50px;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url('images/wooden_bg.jpg');
+	background-size: cover;
+	font-size: 15;
+}
+header{
+	 background: rgba(28, 54, 85, 0.1);	
+	padding: 10px 20px;
+}
+nav{
+	 background: rgba(28, 54, 85, 0.3);
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a {
+	color: white;
+}
+
+li{
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+td{
+	font-size: 20px;
+}
+#td1{
+	font-size: 20px;
+}
+#td2{
+	font-size: 20px;
+}

@@ -1,0 +1,53 @@
+#logo{
+	font-size: 50px;
+	text-align: center;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url('images/wooden_bg.jpg');
+	background-size: cover;
+	font-size: 15;
+}
+header{
+	 background: rgba(28, 54, 85, 0.1);	
+	padding: 10px 20px;
+}
+nav{
+	 background: rgba(28, 54, 85, 0.3);
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a {
+	color: white;
+	text-decoration-line: none;
+}
+
+li{
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+#ad1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration-line: underline;
+}
+.form { padding:15px 10px 5px 10px; }
+.form label{ display:block; font-weight: bold; font-size:13px; padding-bottom:4px; }
+.form label span{ color:#999; font-weight: normal;}
+.form .field { display:block; }
+.form .inline-field .field { display:inline;}
+.form .req { font-size:13px; float:right; white-space:nowrap; color:#999;  }
+.form p{ padding-bottom:15px; }
+.sb{
+	font-size: 20px;
+}
+#div1{
+	padding-left: 20px;
+}
